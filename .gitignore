@@ -1,4 +1,4 @@
-
+/node_modules/puppeteer/*
 /public/hot
 /public/storage
 /storage/*.key
